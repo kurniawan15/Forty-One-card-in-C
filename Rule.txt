@@ -1,0 +1,52 @@
+	  
+   
+  лллл   лллл    лллллл   лллл      лллл     лллл                    ллллллллл   лллл         лллллл  лллл    лллл
+  лллл   лллл   ллл  ллл  лллл      лллл     лллл        лллллллл    лллл  лллл  лллл        лллллллл  лллл  лллл
+  лллл   лллл  лллл  лллл лллл  лл  лллл     лллл       лллл  лллл   лллл  лллл  лллл       лллл  лллл  лллллллл
+  ллллллллллл  лллл  лллл лллл  лл  лллл  лллллллллл    лллл  лллл   лллл  лллл  лллл       лллл  лллл   лллллл
+  лллл   лллл  лллл  лллл лллл  лл  лллл     лллл       лллл  лллл   ллллллллл   лллл       лллллллллл    лллл
+  лллл   лллл   ллл  ллл   лллллллллллл      лллл   лл  лллл  лллл   лллл        лллл       лллл  лллл    лллл
+  лллл   лллл    лллллл     лллл  лллл         ллллл     лллллллл    лллл        лллллллллл лллл  лллл    лллл  
+
+
+
+
+	Rules of The Game
+	-----------------------------------------------------------------------------------------------------------
+    	1. 41 is a partnership game is normally played by from 2 to 4 players.
+    
+    	2. Deal randomly four cards face down to each player.  
+    
+    	3. The remaining cards are placed face down in the centre of the table to form a drawing stock.
+
+	4. The turn to play passes clockwise.
+
+	5. On the first turn of the game, the first player can draw only from the stock, 
+
+	   because no cards have yet been discarded.
+
+	6. The next turn, draw either the top card of the stock or the card just discarded by the previous player.
+
+	7. Add this card and discard one card face up.
+	
+	8. The only discard that can be taken is the card just discarded by the player before.
+
+	9. Repeat step six and seven until the winner was found or there are no cards left in the drawing stock.
+
+	10. If there are no cards left in the drawing stock, all players show their cards and count their scores.
+
+
+	Scoring
+	------------------------------------------------------------------------------------------------------------
+
+	1. Each player can only count cards of one suit as positive, and cards of other suits have a negative value.
+	
+	2. Aces count 11 points, pictures (kings, queens and jacks) and tens count 10 points each, 
+
+	   and cards from 2 to 9 count face value.
+
+	3. The perfect score is Fourty-One (41).
+
+	4. The player with the highest score is the winner and the one with the lowest score is the loser. 
+
+
